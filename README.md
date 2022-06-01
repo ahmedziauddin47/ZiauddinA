@@ -5,6 +5,6 @@
 -👯 I'm looking to collaborate on Vue.JS
 -🤔 I'm looking for help with Javascript
 -💬 Ask me about anything related to programming
--📫 You can reach me at [my email](ahmedziauddin47@gmail.com)
+-📫 You can reach me at my email: ahmedziauddin47@gmail.com
 -😄 He/Him
 -⚡ Fun fact: ... I'm a Hafiz of the Quran
